@@ -5,7 +5,6 @@ function plugin (Vue, options = {}) {
     console.warn('[vue-dragula] already installed.')
   }
 
-  console.log('Add Dragula plugin:', options)
   VueDragula(Vue, options)
 }
 

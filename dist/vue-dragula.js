@@ -3076,7 +3076,6 @@ var require$$0$3 = Object.freeze({
 	    console.warn('[vue-dragula] already installed.');
 	  }
 
-	  console.log('Add Dragula plugin:', options);
 	  VueDragula(Vue, options);
 	}
 
